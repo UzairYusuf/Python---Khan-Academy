@@ -1,1 +1,1 @@
-# Python---Khan-Academy
+# Python-Khan-Academy
